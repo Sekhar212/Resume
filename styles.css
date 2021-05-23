@@ -1,0 +1,147 @@
+
+.a4{
+  margin: 20px 10% ;
+  border: 1px solid;
+  height:100%;
+  box-shadow: 2px 3px;
+  font-family: sans-serif;
+
+}
+h1,h2,h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+  position: relative;
+}
+.header-content{
+  display:  inline-block;
+  padding-left: 15px;
+  position: absolute;
+  top:10px;
+  background-color: #495464;
+  color: white;
+}
+.profile{
+  width:15%;
+  margin: 25px 5% 10px 4%;
+
+}
+.name{
+  margin: 10px 0 0 0;
+}
+.role{
+  margin: 5px 0 2px 0;
+}
+.underline{
+
+  border-bottom: none;
+  border-width: 3px;
+  width:30%;
+  margin: 2px 0 0 0;
+  border-color:white;
+  background-color: white;
+}
+.obj{
+  padding-right: 50px;
+}
+
+/* side div styles--------------------------------------------------*/
+.side{
+  width:20%;
+  padding-left: 10px;
+  position: relative;
+  bottom: 300px;
+  display: inline-block;
+
+}
+.s-heading{
+  margin-bottom: 30px;
+  border-bottom: 2px solid black;
+}
+.skill{
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid black;
+  color: white;
+  background-color: grey;
+  border-radius: 5px;
+}
+.lh{
+  margin-bottom: 0;
+  font-size: 90%;
+}
+.l{
+  margin-top: 3px;
+  font-style: italic;
+  font-size: 90%;
+}
+.intrest{
+  display: inline-block;
+  padding:3px 6px;
+  margin: 5px;
+  border: 2px solid grey;
+  border-radius: 5px;
+}
+.Languages{
+  margin-top:50px;
+  margin-bottom: 50px;
+}
+.language{
+  margin-top: 30px;
+}
+.skills{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+/* main div Styles -------------------------------------------*/
+.main{
+  display: inline-block;
+  width: 73%;
+  margin:0 25px 0 15px;
+  padding: 0 0 0 10px;
+
+}
+.education{
+  position: relative;
+}
+.work-experience{
+  position: relative;
+}
+.m-header{
+  padding-left: 15px;
+  padding-top: 10px;
+  border-bottom: 2px solid black;
+}
+.m-role{
+  padding-left: 15px;
+  margin-bottom: 1px;
+}
+.m-company{
+  padding-left: 15px;
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 1px;
+}
+
+.content{
+  padding-left: 15px;
+}
+.tp{
+  display: inline;
+  font-weight: lighter;
+  font-size: 90%;
+  padding-left: 15px;
+
+}
+.loc{
+  display: inline;
+  font-style: italic;
+  position: absolute;
+  right: 2px;
+}
+.tp1{
+  margin-bottom: 2px;
+  padding-left: 15px;
+}
